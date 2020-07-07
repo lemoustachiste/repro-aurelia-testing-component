@@ -1,0 +1,23 @@
+{
+  "name": "repro-aurelia-testing-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.4",
+    "aurelia": "^0.7.0",
+    "aurelia-bootstrapper": "^2.3.3",
+    "aurelia-loader-nodejs": "^1.1.0",
+    "aurelia-pal-nodejs": "^2.0.0",
+    "aurelia-testing": "^1.0.0",
+    "jest": "^26.1.0",
+    "reflect-metadata": "^0.1.13",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.6"
+  }
+}
